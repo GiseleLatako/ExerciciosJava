@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b513978a-34d0-42ec-8548-8e1275bfe475" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/untitled/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/EstruturaDeRepeticao/Exemplo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/EstruturaDeRepeticao/Exemplo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/EstruturaDeRepeticao/Exemplo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/EstruturaDeRepeticao/ExercicioIdadeDoUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/EstruturaDeRepeticao/ExercicioVerificacaoLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/EstruturaDecisao/Exemplo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/EstruturaDecisao/Exemplo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/EstruturaDecisao/Exemplo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/untitled" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2W2rc4tTnH80vRPWu7C8TT5ZHYJ" />
   <component name="ProjectViewState">
